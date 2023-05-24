@@ -2,7 +2,7 @@
 ## Índice
 1. [Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
- - [ENEM2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/ENEM2021)
+ - [ENEM 2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/ENEM2021)
  
  - [Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural) 
 
