@@ -1,5 +1,4 @@
 # Projetos de dados
-Meus projetos com dados
 ## Um resumo sobre dados:
 Dados são valores atribuídos a algo chamado variável, cujos valores podem ser numéricos ou conceituais (categóricos). Os de tipo categórico podem obedecer a uma hierarquia (categórico ordinal) ou não (categórico nominal), já os de tipo numérico podem ser do tipo discreto (que assume valores inteiros: 1,2,3, assim por diante) ou contínuos (que permitem fracionamento). Podem ser medidos por algum instrumento ou de desígnio arbitrário.
 Dados contém erros e vieses em sua concepção, o que influencia na coleta, tratamento e análise deles.
