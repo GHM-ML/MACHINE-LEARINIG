@@ -2,15 +2,14 @@
 ## Índice
 1.[Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
-   -[ENEM2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/ENEM2021)
+   1.1.[ENEM2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/ENEM2021)
  
-   -[Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural) 
+   1.2[Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural) 
 
-         -[Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
+   1.2.1.[Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
 
-         -[Tweets de disastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20disastre)
-
-2.[Trabalhos graduação] (https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
+   1.2.2.[Tweets de disastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20disastre)
+   2.[Trabalhos graduação] (https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
 ## Um resumo sobre dados:
 Dados são valores atribuídos a algo chamado variável, cujos valores podem ser numéricos ou conceituais (categóricos). Os de tipo categórico podem obedecer a uma hierarquia (categórico ordinal) ou não (categórico nominal), já os de tipo numérico podem ser do tipo discreto (que assume valores inteiros: 1,2,3, assim por diante) ou contínuos (que permitem fracionamento). Podem ser medidos por algum instrumento ou de desígnio arbitrário.
 Dados contém erros e vieses em sua concepção, o que influencia na coleta, tratamento e análise deles.
