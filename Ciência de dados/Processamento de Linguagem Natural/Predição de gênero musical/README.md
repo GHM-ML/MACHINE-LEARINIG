@@ -9,6 +9,6 @@ Projeto que tem como objetivo classificar uma música como pertencente (ou não)
 
       - 1.2.1 - **Predição de gênero musical**
 
-      - 1.2.2 - [Tweets de disastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20disastre)
+      - 1.2.2 - [Tweets de desastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20desastre)
    
 2 - [Trabalhos graduação](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
