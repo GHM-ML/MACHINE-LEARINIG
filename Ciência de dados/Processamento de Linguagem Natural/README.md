@@ -16,11 +16,11 @@ Envolve a compreensão de linguagem humana pela máquina por meio de um algoritm
   - TF-IDF, sigla composta que representa um método que une dois conceitos:
     1. TF (Term Frequency) - frequência de uma palavra, em relação ao total de palavras do documento:
      
-      - Quanto mais vezes uma palavra aparecer em um documento, maior o valor de TF 
+       - Quanto mais vezes uma palavra aparecer em um documento, maior o valor de TF 
     
     2. IDF (Inverse Document Frequency) - Inverso da Document Frequency
     
-      - DF (Document Frequency): Frequência com que uma palavra está contida num documento, em relação ao total de documentos
+       - DF (Document Frequency): Frequência com que uma palavra está contida num documento, em relação ao total de documentos
       
 A ideia de usar o inverso é que, quanto maior a frequencia de uma palavra no total dos documentos, menos importante ela é para um só.
       
