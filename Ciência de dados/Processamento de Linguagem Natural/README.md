@@ -21,11 +21,10 @@ Envolve a compreensão de linguagem humana pela máquina por meio de um algoritm
     2. IDF (Inverse Document Frequency) - Inverso da Document Frequency
     
        - DF (Document Frequency): Frequência com que uma palavra está contida num documento, em relação ao total de documentos
+       - A ideia de usar o inverso é que, quanto maior a frequência de uma palavra no total dos documentos, menos importante ela é para um só.
       
-A ideia de usar o inverso é que, quanto maior a frequencia de uma palavra no total dos documentos, menos importante ela é para um só.
-      
-Uma palavra rara, então, aumenta o valor de IDF e,uma comum, diminui-o
+Uma palavra rara, então, aumenta o valor de IDF e,uma comum, diminui-o.
 
-Usa-se o log para diminuir a escala da razão IDF
+Usa-se o log para diminuir a escala da razão IDF.
 
 **Se o valor de TF - IDF é o produto das partes, quanto maior os dois forem, mais o total vale.**
