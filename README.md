@@ -1,5 +1,5 @@
 # Projetos de dados
-Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a minha graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina.
+Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a minha graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, a seguir).
 ## Índice
 1 - [Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
