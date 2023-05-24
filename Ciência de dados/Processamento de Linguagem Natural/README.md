@@ -14,9 +14,9 @@ Envolve a compreensão de linguagem humana pela máquina por meio de um algoritm
 - Vetorização - essencialmente, converte dados de texto em dados numéricos, que são o tipo que o modelo consegue interpretar. Há várias técnicas, dentre as quais, a escolhida:
 
   - TF-IDF, sigla composta que representa um método que une dois conceitos:
-    - TF (Term Frequency) - cálculo da frequência de uma palavra, em relação ao total de palavras do documento:
+    - TF (Term Frequency) - frequência de uma palavra, em relação ao total de palavras do documento:
      
-      Quanto mais vezes uma palavra aparecer em um documento, maior o valor de TF 
+      - Quanto mais vezes uma palavra aparecer em um documento, maior o valor de TF 
     
     - IDF (Inverse Document Frequency) - Inverso da Document Frequency
     
