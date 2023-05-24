@@ -11,7 +11,7 @@ Envolve a compreensão de linguagem humana pela máquina por meio de um algoritm
 
 - Stopwords (ou palavras de parada) - palavras sem significado e irrelevantes, melhor removê-las.
 
-- Vetorização - essencialmente, converte dados de texto em dados numéricos, que são o tipo que o modelo consegue interpretar. Há várias técnicas, dentre as quais, a escolhida:
+- Vetorização - essencialmente, converte dados de texto em dados numéricos, que são o tipo que o modelo consegue interpretar. Há várias técnicas, dentre as quais:
 
   - TF-IDF, sigla composta que representa um método que une dois conceitos:
     1. TF (Term Frequency) - frequência de uma palavra, em relação ao total de palavras do documento:
