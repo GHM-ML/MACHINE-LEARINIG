@@ -1,4 +1,5 @@
 # Projetos de dados
+Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a minha graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina.
 ## Índice
 1 [Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
@@ -41,4 +42,4 @@ Os algoritmos de tipo 1. (únicos tratados aqui) podem, ainda, serem subcategori
 - https://www.oracle.com/br/big-data/what-is-big-data/
 - https://aws.amazon.com/pt/what-is/machine-learning/
 - [Estatística Básica (Livro por Pedro Alberto Morettin e Wilton O. Bussab)](https://g.co/kgs/tNHyFY)
-- [An Introduction to Statistical Learning (with applications in R)](https://g.co/kgs/5DGxto)
+- [An Introduction to Statistical Learning: with applications in R (Livro por Daniela Witten, Robert Tibshirani e Trevor Hastie)](https://g.co/kgs/5DGxto)
