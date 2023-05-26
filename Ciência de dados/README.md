@@ -14,7 +14,7 @@ Ramo profissional cujo ator é capaz de extrair conhecimento significativo dos d
    
 2 - [Trabalhos graduação](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
 ## Conjuntos de dados
-Disponíveis publicamente e armazenados em bucket no AWS S3. 
+Disponíveis publicamente e armazenados em bucket no AWS S3. Links originais a seguir:
 
 [DADOS ENEM](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
 
