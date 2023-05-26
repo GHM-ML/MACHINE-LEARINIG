@@ -24,7 +24,13 @@ Dados são geralmente são armazenados bancos de dados e gerenciados por SGBDs (
 ### Análise e visualização:
 Várias técnicas estatísticas são empregadas para análise de dados:
 1. As **medidas de tendência central** mostram valor central ou típico para uma distribuição de probabilidades, elas são **média(s), mediana e moda**.
-2. Já as **medidas de dispersão estatística** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
+   - **Moda:** O valor que mais se repete dentro do conjunto de dados.
+   - **Mediana:** O valor central do conjunto de dados ordenado crescentemente.
+   - **Média:** Soma dos valores do conjunto, dividido pelo seu tamanho. Ou seja,
+   
+     $\Large \frac{1}{n} \sum\limits_{i=i}^{N} x_{i}$, onde $x_{i}$ é uma observação e $N$ o tamanho do conjunto de dados.
+     
+3. Já as **medidas de dispersão estatística** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
 ### Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
 ## Machine Learning
