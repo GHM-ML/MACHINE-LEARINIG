@@ -1,5 +1,5 @@
 # Projetos de dados
-Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a minha graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, a seguir).
+Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, no índice a seguir).
 ## Índice
 1 - [Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
@@ -26,7 +26,9 @@ Várias técnicas estatísticas são empregadas para análise de dados:
 1. As **medidas de tendência central** mostram valor central ou típico para uma distribuição de probabilidades, elas são **média(s), mediana e moda**.
    - **Moda:** O valor que mais se repete dentro do conjunto de dados.
    - **Mediana:** O valor central do conjunto de dados ordenado crescentemente.
-   - **Média:** Soma dos valores do conjunto, dividido pelo seu tamanho. Ou seja,
+   - **Média:** Soma dos valores do conjunto, dividido pelo seu tamanho. 
+    
+     Ou seja,
    
      $\Large \frac{1}{n} \sum\limits_{i=i}^{N} x_{i}$, onde $x_{i}$ é uma observação e $N$ o tamanho do conjunto de dados.
      
