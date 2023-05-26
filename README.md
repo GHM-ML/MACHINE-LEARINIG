@@ -25,7 +25,9 @@ Dados são geralmente são armazenados bancos de dados e gerenciados por SGBDs (
 Várias técnicas estatísticas são empregadas para análise de dados:
 1. As **medidas de tendência central** mostram valor central ou típico para uma distribuição de probabilidades, elas são **média(s), mediana e moda**.
    - **Moda:** O valor que mais se repete dentro do conjunto de dados.
+   
    - **Mediana:** O valor central do conjunto de dados ordenado crescentemente.
+   
    - **Média ($\mu$):** Soma dos valores do conjunto, dividido pelo seu tamanho. 
  
       - Ou seja, $\Large \mu = \frac{1}{N} \sum\limits_{i=i}^{N} x_{i}$, onde $x_{i}$ é uma observação e $N$ o tamanho do conjunto de dados.
@@ -37,6 +39,8 @@ Várias técnicas estatísticas são empregadas para análise de dados:
      - Matematicamente: $\Large \sigma^2 = \frac{1}{N} \displaystyle\sum_{i=1}^{N}(x_i - \mu)^2$
    
    - **Desvio Padrão ($\sigma$):** A raiz quadrada positiva da variância. Usada para melhor interpretabilidade, pois a unidade de medida da variância é o quadrado da dimensão dos dados (exemplo, se a dimensão do dado for cm, a variância será dada em cm², mas o desvio padrão volta para cm).
+   
+   - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
 
 ### Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
