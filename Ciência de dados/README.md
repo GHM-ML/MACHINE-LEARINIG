@@ -1,4 +1,6 @@
 # Ciência de Dados
+Ramo profissional cujo ator é capaz de extrair conhecimento significativo dos dados para resolução de algum problema em negócios, geralmente usando algum modelo estatístico preditivo.
+Área extremamente interdisciplinar, junta ramos da estatística, programação e conhecimentos de negócios.
 ## Índice
 1 - **Ciência de dados**
 
