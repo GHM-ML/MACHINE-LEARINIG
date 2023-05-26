@@ -34,7 +34,7 @@ Várias técnicas estatísticas são empregadas para análise de dados:
 
    - **Variância ($\sigma^2$):** Soma dos quadrados das diferenças entre cada observação $x_{i}$ e a média $\mu$, divididos pelo total de observações $N$.
   
-     - Matematicamente: $\Large \sigma^2 = \frac{\displaystyle\sum_{i=1}^{N}(x_i - \mu)^2} {N}$
+     - Matematicamente: $\Large \sigma^2 = \frac{1}{N} \displaystyle\sum_{i=1}^{N}(x_i - \mu)^2$
    
    - **Desvio Padrão ($\sigma$):** A raiz quadrada positiva da variância. Usada para melhor interpretabilidade, pois a unidade de medida da variância é o quadrado da dimensão dos dados (exemplo, se a dimensão do dado for cm, a variância será dada em cm², mas o desvio padrão volta para cm).
 
