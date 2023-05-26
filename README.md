@@ -49,7 +49,7 @@ Várias medidas estatísticas são empregadas para análise de dados:
 #### Visualização:
 
 
-### Big data
+## Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando o desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto de dados.
 ## Machine Learning
 Muitas vezes, busca-se obter inferências ou entender as relações existentes entre as variáveis constituintes de um conjunto de dados. O Aprendizado de Máquina (Machine Learning) é a ciência de desenvolvimento de algoritmos e modelos estatísticos que voltado para atender a essas necessidades. Apesar de possuir vários algoritmos voltados à resolução de vários tipos de problemas, as classificações mais comuns são:
