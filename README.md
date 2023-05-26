@@ -41,13 +41,13 @@ Várias técnicas estatísticas são empregadas para análise de dados:
 ### Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
 ## Machine Learning
-Muitas vezes, busca-se obter inferências ou entender as relações existentes entre as variáveis constituintes de um conjunto de dados. O Aprendizado de Máquina (Machine Learning) é a ciência de desenvolvimento de algoritmos e modelos estatísticos que voltado para atender a essas necessidades. Apesar de possuir vários tipos de algoritmos voltados à resolução de vários tipos de problemas, as classificações mais comuns são:
+Muitas vezes, busca-se obter inferências ou entender as relações existentes entre as variáveis constituintes de um conjunto de dados. O Aprendizado de Máquina (Machine Learning) é a ciência de desenvolvimento de algoritmos e modelos estatísticos que voltado para atender a essas necessidades. Apesar de possuir vários algoritmos voltados à resolução de vários tipos de problemas, as classificações mais comuns são:
 1. Aprendizado supervisionado;
 2. Aprendizado não supervisionado;
 3. Aprendizado semissupervisionado;
 4. Aprendizado por reforço.
 
-Os algoritmos de tipo 1. (únicos tratados aqui) podem, ainda, serem subcategorizados em: Regressão e Classificação.
+Os algoritmos de tipo 1. (únicos tratados aqui, até o momento) podem, ainda, serem subcategorizados em: Regressão e Classificação.
 
 # Referências:
 - https://escoladedados.org/tutoriais/o-que-sao-dados/#:~:text=Em%20resumo%2C%20dados%20s%C3%A3o%20valores,ser%20atribu%C3%ADdos%20de%20forma%20arbitr%C3%A1ria.
