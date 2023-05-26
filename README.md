@@ -6,7 +6,7 @@ Basicamente, aqui se reúne toda minha experiência com dados, processo que se i
  
 - 2 - [Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural) 
 
-    - 2.1 - [Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
+    - 2.1 - [Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
 
     - 2.2 - [Tweets de desastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20desastre)
    
