@@ -1,5 +1,6 @@
 # Projetos de dados
-Basicamente, aqui se reúne toda minha experiência analisando dados, processo que se iniciou durante a graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, no índice a seguir).
+Basicamente, aqui se reúne toda minha experiência com dados, processo que se iniciou durante a graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, no índice a seguir).
+
 ## Índice
 1 - [Ciência de dados](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados)
 
@@ -15,6 +16,7 @@ Basicamente, aqui se reúne toda minha experiência analisando dados, processo q
 
 ## Um resumo sobre dados:
 Dados são valores atribuídos a algo chamado variável, cujos valores podem ser numéricos ou conceituais (categóricos). Os de tipo categórico podem obedecer a uma hierarquia (categórico ordinal) ou não (categórico nominal), já os de tipo numérico podem ser do tipo discreto (que assume valores inteiros: 1,2,3, assim por diante) ou contínuos (que permitem fracionamento). Podem ser medidos por algum instrumento ou de desígnio arbitrário.
+Um conjunto de dados é uma coleção de dados.
 Dados contém erros e vieses em sua concepção, o que influencia na coleta, tratamento e análise deles.
 São explorados em busca de informações que gerem valor a alguém, contando uma história ou respondendo a alguma pergunta.
 Dados podem ser pessoais ou empresariais, abertos ao público ou fechados. A LGPD cuida de delimitar dados pessoais sensíveis e protegê-los.
@@ -22,7 +24,8 @@ Dados podem ser pessoais ou empresariais, abertos ao público ou fechados. A LGP
 Dados digitais são gerados, por exemplo, conforme os usuários usam aparelhos, redes sociais, navegam na web. Ou nas empresas, com os registros de compras, vendas, relatórios operacionais e seu armazenamento depende do volume com que são gerados, a velocidade e variedade.
 Dados são geralmente são armazenados bancos de dados e gerenciados por SGBDs (Sistemas de Gerenciamento de Banco de Dados) de vários tipos, a depender da estrutura inerente aos dados em questão.
 ### Análise e visualização:
-Várias técnicas estatísticas são empregadas para análise de dados:
+Várias medidas estatísticas são empregadas para análise de dados:
+
 1. As **medidas de tendência central** mostram valor central ou típico para uma distribuição de probabilidades, elas são **média(s), mediana e moda**.
    - **Moda:** O valor que mais se repete dentro do conjunto de dados.
    
@@ -32,7 +35,7 @@ Várias técnicas estatísticas são empregadas para análise de dados:
  
       - Ou seja, $\Large \mu = \frac{1}{N} \sum\limits_{i=i}^{N} x_{i}$, onde $x_{i}$ é uma observação e $N$ o tamanho do conjunto de dados.
      
-3. Já as **medidas de dispersão** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
+2. Já as **medidas de dispersão** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
 
    - **Variância ($\sigma^2$):** Soma dos quadrados das diferenças entre cada observação $x_{i}$ e a média $\mu$, divididos pelo total de observações $N$.
   
@@ -43,7 +46,7 @@ Várias técnicas estatísticas são empregadas para análise de dados:
    - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
 
 ### Big data
-Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
+Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando o desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto de dados.
 ## Machine Learning
 Muitas vezes, busca-se obter inferências ou entender as relações existentes entre as variáveis constituintes de um conjunto de dados. O Aprendizado de Máquina (Machine Learning) é a ciência de desenvolvimento de algoritmos e modelos estatísticos que voltado para atender a essas necessidades. Apesar de possuir vários algoritmos voltados à resolução de vários tipos de problemas, as classificações mais comuns são:
 1. Aprendizado supervisionado;
