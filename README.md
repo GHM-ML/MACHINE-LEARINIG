@@ -23,7 +23,8 @@ Dados podem ser pessoais ou empresariais, abertos ao público ou fechados. A LGP
 ### Coleta e armazenamento:
 Dados digitais são gerados, por exemplo, conforme os usuários usam aparelhos, redes sociais, navegam na web. Ou nas empresas, com os registros de compras, vendas, relatórios operacionais e seu armazenamento depende do volume com que são gerados, a velocidade e variedade.
 Dados são geralmente são armazenados bancos de dados e gerenciados por SGBDs (Sistemas de Gerenciamento de Banco de Dados) de vários tipos, a depender da estrutura inerente aos dados em questão.
-### Análise:
+### Análise exploratória de dados:
+#### Medidas:
 Várias medidas estatísticas são empregadas para análise de dados:
 
 1. As **medidas de tendência central** mostram valor central ou típico para uma distribuição de probabilidades, elas são **média(s), mediana e moda**.
@@ -45,7 +46,7 @@ Várias medidas estatísticas são empregadas para análise de dados:
    
    - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
 
-### Visualização:
+#### Visualização:
 
 
 ### Big data
