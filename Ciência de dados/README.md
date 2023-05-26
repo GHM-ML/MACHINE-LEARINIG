@@ -13,3 +13,8 @@ Ramo profissional cujo ator é capaz de extrair conhecimento significativo dos d
       - 1.2.2 - [Tweets de desastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20desastre)
    
 2 - [Trabalhos graduação](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
+## Conjuntos de dados
+Disponíveis publicamente e armazenados em bucket no AWS S3. 
+1.1 [DADOS ENEM](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
+1.2.1 [DADOS MUSICAIS](https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv)
+1.2.2 [DADOS TWEETS](https://www.kaggle.com/datasets/vstepanenko/disaster-tweets)
