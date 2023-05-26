@@ -2,7 +2,7 @@
 Basicamente, aqui se reúne toda minha experiência com dados, processo que se iniciou durante a graduação em Matemática (Bacharelado), onde tive primeiro contato com programação e alguns projetos de aprendizado de máquina (seção 2, no índice a seguir).
 
 ## Índice
-- 1 - [ENEM 2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/ENEM2021)
+- 1 - [ENEM 2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/ENEM%202021)
  
 - 2 - [Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Ci%C3%AAncia%20de%20dados/Processamento%20de%20Linguagem%20Natural) 
 
