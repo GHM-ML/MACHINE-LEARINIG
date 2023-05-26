@@ -30,7 +30,12 @@ Várias técnicas estatísticas são empregadas para análise de dados:
  
       - Ou seja, $\Large \mu = \frac{1}{N} \sum\limits_{i=i}^{N} x_{i}$, onde $x_{i}$ é uma observação e $N$ o tamanho do conjunto de dados.
      
-3. Já as **medidas de dispersão estatística** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
+3. Já as **medidas de dispersão** são concebidas para fornecerem uma ideia sobre o quão distribuídos os valores dos dados estão distribuídos em torno da média. São elas: **variância, desvio padrão e amplitude interquartil**.
+
+   - **Variância ($\sigma^2$):** Soma dos quadrados das diferenças entre cada observação $x_{i}$ e a média $\mu$, divididos pelo total de observações $N$.
+  
+     - Matematicamente: $\Large \sigma^2 = \frac{\displaystyle\sum_{i=1}^{N}(x_i - \mu)^2} {N}$
+
 ### Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
 ## Machine Learning
