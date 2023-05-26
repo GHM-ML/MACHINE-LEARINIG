@@ -1,4 +1,5 @@
-# Projetos desenvolvidos na graduação como requisito parcial para aprovação na disciplina Fundamentos de Sistemas Inteligentes.
+# Projetos graduação 
+Desenvolvidos para servirem de requisito parcial para aprovação na disciplina Fundamentos de Sistemas Inteligentes.
 ## Índice
 - 1 - [ENEM 2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/ENEM%202021)
  
