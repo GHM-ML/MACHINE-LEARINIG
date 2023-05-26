@@ -35,6 +35,8 @@ Várias técnicas estatísticas são empregadas para análise de dados:
    - **Variância ($\sigma^2$):** Soma dos quadrados das diferenças entre cada observação $x_{i}$ e a média $\mu$, divididos pelo total de observações $N$.
   
      - Matematicamente: $\Large \sigma^2 = \frac{\displaystyle\sum_{i=1}^{N}(x_i - \mu)^2} {N}$
+   
+   - **Desvio Padrão ($\sigma$):** A raiz quadrada positiva da variância. Usada para melhor interpretabilidade, pois a unidade de medida da variância é o quadrado da dimensão dos dados (exemplo, se a dimensão do dado for cm, a variância será dada em cm², mas o desvio padrão volta para cm).
 
 ### Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto.
