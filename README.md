@@ -3,14 +3,16 @@ Basicamente, aqui se reúne toda minha experiência com dados, processo que se i
 
 ## Índice
 - 1 - [ENEM 2021](https://github.com/GHM-ML/Projetos-de-dados/tree/main/ENEM%202021)
- 
-- 2 - [Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural) 
 
-    - 2.1 - [Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
+- 2 - [Imersão dados Alura](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Imersao-dados-Alura)
 
-    - 2.2 - [Tweets de desastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20desastre)
+- 3 - [Processamento de Linguagem Natural](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural) 
+
+    - 3.1 - [Predição de gênero musical](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural/Predi%C3%A7%C3%A3o%20de%20g%C3%AAnero%20musical)
+
+    - 3.2 - [Tweets de desastre](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Processamento%20de%20Linguagem%20Natural/Tweets%20de%20desastre)
    
-- 3 - [Trabalhos graduação](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
+- 4 - [Trabalhos graduação](https://github.com/GHM-ML/Projetos-de-dados/tree/main/Trabalhos-graduacao)
 
 ## Um resumo sobre dados:
 Dados são valores atribuídos a algo chamado variável, cujos valores podem ser numéricos ou conceituais (categóricos). Os de tipo categórico podem obedecer a uma hierarquia (categórico ordinal) ou não (categórico nominal), já os de tipo numérico podem ser do tipo discreto (que assume valores inteiros: 1,2,3, assim por diante) ou contínuos (que permitem fracionamento). Podem ser medidos por algum instrumento ou de desígnio arbitrário.
