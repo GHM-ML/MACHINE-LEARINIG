@@ -52,7 +52,7 @@ Várias medidas estatísticas são empregadas para análise de dados:
 Existem vários tipos, mas geralmente são variações estéticas do mesmo princípio, será apresentado o de barras:
   
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/3794cc86-8b9f-4fa0-bb57-c1bd8abab29c" width=30% height=30%>
-A ideia por trás dessa forma de apresentação é mostrar as categorias na horizontal e a frequência de cada uma na vertical
+A ideia por trás dessa forma de apresentação é mostrar as categorias na horizontal e a frequência de cada uma na vertical.
 
 E o de setores (ou de pizza):
 
