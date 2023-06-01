@@ -45,6 +45,9 @@ Várias medidas estatísticas são empregadas para análise de dados:
    - **Desvio Padrão ($\sigma$):** A raiz quadrada positiva da variância. Usada para melhor interpretabilidade, pois a unidade de medida da variância é o quadrado da dimensão dos dados (exemplo, se a dimensão do dado for cm, a variância será dada em cm², mas o desvio padrão volta para cm).
    
    - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
+Um gráfico que ajuda na visualização dessas medidas de dispersão é o *box-plot*:
+
+<img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=30% height=30%>
 
 #### Visualização:
 - **Variáveis Qualitativas:**
@@ -63,7 +66,11 @@ Os gráficos mostrados também funcionam bem para variáveis quantitativas discr
 
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/6d666c7a-2f80-4e39-ae36-106f97ce7dd7" width=30% height=30%>
 
-<img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=30% height=30%>
+Exclusivamente para as quantitativas contínuas temos o histograma:
+
+<img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/db876389-a7b8-451d-a1cd-0086853322aa" width=30% height=30%>
+
+A base de cada barra é proporcional ao tamanho das faixas de valores e a área do retângulo é proporcional à frequência.
 
 ## Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando o desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto de dados.
