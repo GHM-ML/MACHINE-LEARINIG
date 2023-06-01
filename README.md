@@ -52,18 +52,17 @@ Várias medidas estatísticas são empregadas para análise de dados:
 Existem vários tipos, mas geralmente são variações estéticas do mesmo princípio, será apresentado o de barras:
   
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/3794cc86-8b9f-4fa0-bb57-c1bd8abab29c" width=30% height=30%>
+
 A ideia por trás dessa forma de apresentação é mostrar as categorias na horizontal e a frequência de cada uma na vertical.
 
-E o de setores (ou de pizza):
+E o de setores (ou de pizza), cujo princípio é mostrar a frequência como área do setor que a categoria representa.:
 
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/41ca0aa0-9c82-4365-9785-a5b0ff405e77" width=30% height=30%>
 
-Cujo princípio é mostrar a frequência como área do setor que a categoria representa.
 
 - Variáveis Quantitativas:
 
 Os gráficos mostrados também funcionam bem para variáveis quantitativas discretas. Além deles, pode-se considerar:
-
 
 
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=30% height=30%>
