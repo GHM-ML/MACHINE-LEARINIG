@@ -1,4 +1,5 @@
 # ENEM 2021
+Objetivo do projeto é analisar a demografia dos participantes do ENEM 2021, inferir as características mais superficiais da população.
 ## Índice
 - 1 - **ENEM 2021**
 
