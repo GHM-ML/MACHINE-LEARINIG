@@ -45,9 +45,12 @@ Várias medidas estatísticas são empregadas para análise de dados:
    - **Desvio Padrão ($\sigma$):** A raiz quadrada positiva da variância. Usada para melhor interpretabilidade, pois a unidade de medida da variância é o quadrado da dimensão dos dados (exemplo, se a dimensão do dado for cm, a variância será dada em cm², mas o desvio padrão volta para cm).
    
    - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
-Um gráfico que ajuda na visualização dessas medidas de dispersão é o *box-plot*:
+
+   - Um gráfico que ajuda na visualização dessas medidas de dispersão é o *box-plot*:
 
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=50% height=50%>
+
+Esse gráfico dá uma ideia da forma da distribuição desses dados.
 
 #### Visualização:
 - **Variáveis Qualitativas:**
