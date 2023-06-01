@@ -48,7 +48,7 @@ Várias medidas estatísticas são empregadas para análise de dados:
 
 #### Visualização:
 
-![g2](https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3 =100x100)
+<img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=50% height=50%>
 
 ## Big data
 Refere-se a um conjunto de tecnologias requeridas quando um conjunto de dados é volumoso, variado e coletado em escalas tão fora dos padrões tradicionais (como os dados gerados em redes sociais), que as técnicas de coleta, tratamento, operações de consulta e geração de relatórios se tornam impraticáveis, forçando o desenvolvimento de recursos e procedimentos otimizados para lidar especificamente com este tipo de conjunto de dados.
