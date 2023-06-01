@@ -47,6 +47,11 @@ Várias medidas estatísticas são empregadas para análise de dados:
    - **Amplitude Interquartil:** Primeiramente, um quartil é qualquer um dos três valores que divide o conjunto ordenado de dados em quatro partes iguais, e assim cada parte representa 1/4 da amostra ou população. O primeiro quartil (também chamado quartil inferior) é o valor aos 25% do conjunto ordenado, o segundo quartil, também chamado **mediana** é o valor aos 50% do conjunto ordenado, o terceiro (quartil superior), 75%. Amplitude Interquartil é o nome que se dá à diferença entre os quartis superior e inferior.
 
 #### Visualização:
+- Variáveis Qualitativas:
+Existem vários tipos, mas geralmente são variações estéticas do mesmo princípio, será apresentado o de barras:
+  
+<img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/3794cc86-8b9f-4fa0-bb57-c1bd8abab29c" width=30% height=30%>
+
 
 <img src= "https://github.com/GHM-ML/Projetos-de-dados/assets/100609713/7fd27912-5606-4ddb-a967-06085e18e5e3" width=30% height=30%>
 
